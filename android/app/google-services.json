@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84276786320",
+    "project_id": "empireapp-2a997",
+    "storage_bucket": "empireapp-2a997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84276786320:android:0e433c7fea8f75def35415",
+        "android_client_info": {
+          "package_name": "com.example.empire_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApluchq6b6yQxUZZbCX4RmlSvIudTClE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
